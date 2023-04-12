@@ -1,4 +1,20 @@
 just a file for any issues or whatnot.
 
+VISON: to make a rate my professor but only within the campuses of rutgers!
 
 
+#STEPS
+
+opt = optional
+time = time consuming
+WIP = work in progress
+
+--Make sign in page!-- DONE
+Make Login page (WIP)
+Make error sign in page [anytime they sign in with same credentials, they get an error] (time)
+Make error log in page [mispelled or doesnt have that in the database or whatnot] (time)
+
+Make rate my professor posts and features(WIP)
+    Make information
+    Make rating
+    Make posts

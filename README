@@ -8,6 +8,7 @@ VISON: to make a rate my professor but only within the campuses of rutgers!
 opt = optional
 time = time consuming
 WIP = work in progress
+OP = optional
 
 --Make sign in page!-- DONE
 Make Login page (WIP)
@@ -18,3 +19,9 @@ Make rate my professor posts and features(WIP)
     Make information
     Make rating
     Make posts
+
+Make admin login
+    access for looking  usersnames and passwords
+    a button to find or delete a user
+    a button to reset everything
+

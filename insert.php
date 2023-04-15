@@ -22,7 +22,7 @@ if (!empty($F_name) || !empty($L_name) || !empty($Pwd) #if its NOT empty
     } else{
         //Stament to prepare the fields
         $SELECT = "SELECT Email from Student_information Where email = ? Limit 1";
-        $INSERT = "INSERT Into Student_information(F_name, L_name, Pwd, RUID, Email, campus) values(?, ?, ?, ?, ?)";
+        $INSERT = "INSERT Into Student_information(F_name, L_name, Pwd, RUID, Email, campus) values(?, ?, ?, ?, ?, ?)";
         
         //statement to insert the values into the DB
         $stmt = $conn->prepare($SELECT); 

@@ -10,8 +10,7 @@ time = time consuming
 WIP = work in progress
 OP = optional
 
---Make sign in page!-- DONE
-Make Login page (WIP)
+--Make Login in page!-- DONE ONLY RUTGERS FACULTY CAN SIGN IN
 Make error sign in page [anytime they sign in with same credentials, they get an error] (time)
 Make error log in page [mispelled or doesnt have that in the database or whatnot] (time)
 
